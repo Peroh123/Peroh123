@@ -23,21 +23,22 @@ My work sits at the intersection of data and marketing — I track campaign perf
 
 ## 📂 Portfolio Projects
 
-### 📊 https://github.com/Peroh123/data-analytic-portfolio/blob/main/campaign_analysis.py
+### 📊 [Marketing Campaign Performance Analysis](https://github.com/Peroh123/data-analytic-portfolio/blob/main/campaign_analysis.py)
 Analysed 12 months of digital marketing campaign data across Email, Social Media, Google Ads, and Content Marketing. Produced a 4-panel dashboard with ROI comparisons, CTR heatmaps, and budget reallocation recommendations.
 
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
 
-### 📱 https://github.com/Peroh123/data-analytic-portfolio/blob/main/social_media_analysis.py
+### 📱 [Social Media Analytics Dashboard](https://github.com/Peroh123/data-analytic-portfolio/blob/main/social_media_analysis.py)
+
 Tracked engagement, impressions, and posting performance across Twitter/X, Instagram, LinkedIn, and Telegram over 52 weeks. Identified the highest-performing content types and platform strategies.
 
 `Python` `Pandas` `Matplotlib`
 
 ---
 
-### ⛓️ https://github.com/Peroh123/data-analytic-portfolio/blob/main/web3_analytics.py
+### ⛓️ [Web3 Community & Marketing Analytics](https://github.com/Peroh123/data-analytic-portfolio/blob/main/web3_analytics.py)
 Modelled community growth, on-chain activity, cost-per-token-holder, and community health for a Web3 project over 52 weeks — directly inspired by my work at Pyth Network and Fogo.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
