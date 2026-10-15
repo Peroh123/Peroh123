@@ -2,7 +2,7 @@
 
 **Data Analyst | Web3 Marketing Analytics | Digital Marketing**
 
-I am a Data Analyst based in Lagos, Nigeria with two years of industry experience working across tech and Web3 environments. I hold a 2:1 B.Sc. in Computer Science from the University of Ilorin and have worked with **Pyth Network** and **Fogo** — two well-known projects in the Solana and broader Web3 ecosystem.
+I am a Data Analyst, Python guru, Dode Analytics, based in Lagos, Nigeria with two years of industry experience working across tech and Web3 environments. I hold a 2:1 B.Sc. in Computer Science from the University of Ilorin and have worked with **Pyth Network** and **Fogo** — two well-known projects in the Solana and broader Web3 ecosystem.
 
 My work sits at the intersection of data and marketing — I track campaign performance, analyse community growth, build dashboards, and turn numbers into decisions that actually get acted on.
 
